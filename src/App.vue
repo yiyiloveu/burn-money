@@ -141,7 +141,7 @@ const burning = ref(false)
 
 const quickAmounts = [100, 500, 1000, 5000]
 const wishes = [
-  '愿你在阴间遇得比阴间好',
+  '愿你在阴间遇得比阳间好',
   '希望你能收到这份心意',
   '祝你阴间大发财',
   '愿祖先保佑你平安',
